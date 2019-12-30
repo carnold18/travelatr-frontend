@@ -4,7 +4,7 @@ import './App.css';
 import { API_URL } from './constants';
 
 function App() {
-  console.log("this is the api url: ", API_URL);
+  // console.log("this is the api url: ", API_URL);
   return (
     <div className="App">
       <header className="App-header">
